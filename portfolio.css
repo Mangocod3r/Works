@@ -1,0 +1,22 @@
+p{
+    text-align: left;
+    font-size: 25px;
+}
+body {
+    position: relative; 
+  }
+  #acad {padding-top:75px;height:1000px}
+  #tech {padding-top:75px;height:1000px}
+  #prj {padding-top:75px;height:1000px}
+  #ach {padding-top:75px;height:1000px}
+  #cnt {padding-top:75px;height:1000px}
+.yo{
+    padding-top: 15%;
+    font-size: 64px;
+}
+.yoo{
+    font-size: 40px;
+}
+h2{
+    text-align: left;
+}
